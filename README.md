@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Engenharia4.0-Banner.png" alt="Engenharia 4.0 Banner" width="100%">
+  <img src="governanca-qualidade-4.0-banner.jpg" alt="Governança Qualidade 4.0 Banner" width="100%">
 </p>
 
 <p align="center">
@@ -18,3 +18,19 @@
 ![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
 
 Repositório técnico e executivo focado em Governança 4.0, Qualidade Preditiva e Indústria 4.0. Contém materiais estratégicos e dashboards voltados para otimização de processos fabris, automação inteligente, integração de inteligência artificial na tomada de decisões e transformação digital corporativa avançada.
+
+---
+
+## Autor
+
+**Rafael Ornelas Tozato**
+
+Engenharia Química | Garantia da Qualidade | Governança 4.0
+
+### Contato
+
+- LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+- GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+- Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+- Portfólio PWA: [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
+- DIO: [web.dio.me/users/ornelas_tozato](https://web.dio.me/users/ornelas_tozato)
