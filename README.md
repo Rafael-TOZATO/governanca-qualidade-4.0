@@ -33,4 +33,4 @@ Engenharia Química | Garantia da Qualidade | Governança 4.0
 - GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 - Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
 - Portfólio PWA: [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
-- DIO: [web.dio.me/users/ornelas_tozato](https://web.dio.me/users/ornelas_tozato)
+- Lovable: [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
